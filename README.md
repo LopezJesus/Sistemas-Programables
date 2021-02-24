@@ -28,7 +28,7 @@
 
 ### :blue_book: Trabajos
 
-:book: [D.1 Introducción a la electrónica](docs/D0.1_FundamentosElectronicaBasica.md)
+:book: [D.1 Introducción a la electrónica](docs/C0.1_IntegrarEquiposDeTrabajo_JesusXavierLopezGalaz.md)
 
 ---
 
