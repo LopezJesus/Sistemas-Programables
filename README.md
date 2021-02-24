@@ -28,7 +28,7 @@
 
 ### :blue_book: Trabajos
 
-:book: [D.1 Introducción a la electrónica](docs/C0.1_IntegrarEquiposDeTrabajo_JesusXavierLopezGalaz.md)
+:trophy: [C0.1 Integrar equipos de trabajo](docs/C0.1_IntegrarEquiposDeTrabajo_JesusXavierLopezGalaz.md)
 
 ---
 
