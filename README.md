@@ -28,8 +28,8 @@
 
 ### :blue_book: Trabajos
 
-:trophy: [C0.1 Integrar equipos de trabajo](docs/C0.1_IntegrarEquiposDeTrabajo_JesusXavierLopezGalaz.md)
-:trophy: [C1.1 Cuestionario electrónica básica y sus elementos](docs/C1.1_CuestionarioElectronicaBasica_JesusXavierLopezGalaz.md)
+- :trophy: [C0.1 Integrar equipos de trabajo](docs/C0.1_IntegrarEquiposDeTrabajo_JesusXavierLopezGalaz.md)
+- :trophy: [C1.1 Cuestionario electrónica básica y sus elementos](docs/C1.1_CuestionarioElectronicaBasica_JesusXavierLopezGalaz.md)
 
 ---
 
