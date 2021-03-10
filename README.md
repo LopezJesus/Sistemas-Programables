@@ -31,7 +31,7 @@
 - :trophy: [C0.1 Integrar equipos de trabajo](docs/C0.1_IntegrarEquiposDeTrabajo_JesusXavierLopezGalaz.md)
 - :trophy: [C1.1 Cuestionario electrónica básica y sus elementos](docs/C1.1_CuestionarioElectronicaBasica_JesusXavierLopezGalaz.md)
 - :trophy: [C1.2 Circuito electrónico básico](docs/C1.2_ElectronicaBasica_circuitos_JesusXavierLopezGalaz.md)
-- :trophy: [C1.3 Circuito electrónico divisor de tensión](docs/C1.3_CircuitoDivisorVoltaje _JesusLopez.md)
+- :trophy: [C1.3 Circuito electrónico divisor de tensión](docs/C1.3_CircuitoDivisorVoltaje_JesusLopez.md)
 
 ---
 
