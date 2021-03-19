@@ -32,6 +32,7 @@
 - :trophy: [C1.1 Cuestionario electrónica básica y sus elementos](docs/C1.1_CuestionarioElectronicaBasica_JesusXavierLopezGalaz.md)
 - :trophy: [C1.2 Circuito electrónico básico](docs/C1.2_ElectronicaBasica_circuitos_JesusXavierLopezGalaz.md)
 - :trophy: [C1.3 Circuito electrónico divisor de tensión](docs/C1.3_CircuitoDivisorVoltaje_JesusLopez.md)
+- :trophy: [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](docs/C1.4_Acondicionador_de_senal_AmOP_JesusLopez.md)
 
 ---
 
