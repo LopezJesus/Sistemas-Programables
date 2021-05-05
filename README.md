@@ -35,5 +35,7 @@
 - :trophy: [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](docs/C1.4_Acondicionador_de_senal_AmOP_JesusLopez.md)
 - :trophy: [C1.5 Tipos de sensores](docs/C1.5_Tipos_de_sensores_LopezJesus.md)
 
+- :trophy: [A2.1 Investigación sobre actuadores eléctricos](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A2.1_NombreApellido_Sistematicos.md)
+
 ---
 
