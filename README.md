@@ -36,6 +36,7 @@
 - :trophy: [C1.5 Tipos de sensores](docs/C1.5_Tipos_de_sensores_LopezJesus.md)
 
 - :dog: [A2.1 Investigación sobre actuadores eléctricos](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A2.1_NombreApellido_Sistematicos.md)
+- :trophy: [C2.3 Circuito temporizador 555](https://github.com/LopezJesus/Sistemas-Programables/blob/main/docs/C2.3_Circuito_temporizador_555_JesusLopez.md)
 
 ---
 
