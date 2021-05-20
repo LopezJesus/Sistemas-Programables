@@ -42,7 +42,7 @@ Unidad 2
 - :dog: [A2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A2.2_NombreApellido_Sistematicos.md)
 
 Unidad 3
-- :trophy: [C3.1 ]()
+- :trophy: [C3.1 Arduino IDE Salida Digital ](https://github.com/LopezJesus/Sistemas-Programables/blob/main/docs/C3.1_JesusLopez_Sistematicos.md)
 
 ---
 
