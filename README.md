@@ -45,5 +45,5 @@ Unidad 3
 - :trophy: [C3.1 Arduino IDE Salida Digital ](https://github.com/LopezJesus/Sistemas-Programables/blob/main/docs/C3.1_JesusLopez_Sistematicos.md)
 - :trophy: [C3.2 Arduino IDE Entrada Digital e impresion serial ](https://github.com/LopezJesus/Sistemas-Programables/blob/main/docs/C3.2_JesusLopez_Sistematicos.md)
 - :trophy: [C3.3 Arduino IDE Entrada Analoga y funcion serial ](https://github.com/LopezJesus/Sistemas-Programables/blob/main/docs/C3.3_JesusLopez_Sistematicos.md)
-
+- :dog: [A3.1 Circuito sensor de deteccion de objetos](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.1_Circuito_sensor_de_deteccion_de_objetos-NombreApellido.md)
 ---
