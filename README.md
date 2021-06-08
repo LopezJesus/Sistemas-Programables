@@ -48,5 +48,6 @@ Unidad 3
 - :trophy: [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial ](https://github.com/LopezJesus/Sistemas-Programables/blob/main/docs/C3.4_JesusLopez_Sistematicos.md)
 - :dog: [A3.1 Circuito sensor de deteccion de objetos](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.1_Circuito_sensor_de_deteccion_de_objetos-NombreApellido.md)
 - :dog: [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.2_Circuito_y_programacion_de_un_sensor_de_tactor_con_NodeMCU_ESP32-NombreApellido.md)
+- :dog: [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.3_Circuito_de_medicion_temperatura_a_traves_de_un_NodeMCU_ESP32-NombreApellido.md.md)
 
 ---
