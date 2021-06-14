@@ -51,5 +51,5 @@ Unidad 3
 - :dog: [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.3_Circuito_de_medicion_temperatura_a_traves_de_un_NodeMCU_ESP32-NombreApellido.md)
 
 Unidad 4
-- :dog: [ A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A4.1_NombreApellido_Sistematicos.md)
+- :dog: [A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A4.1_NombreApellido_Sistematicos.md)
 ---
